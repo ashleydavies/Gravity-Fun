@@ -1,0 +1,16 @@
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\bin\Debug\Physics Demo.exe.config
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\Physics Demo.csprojResolveAssemblyReference.cache
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\MainWindow.baml
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\MainWindow.g.cs
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\App.g.cs
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\Physics Demo_MarkupCompile.cache
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\Physics Demo.g.resources
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\Physics_Demo.Properties.Resources.resources
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\Physics Demo.csproj.GenerateResource.Cache
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\bin\Debug\Physics Demo.exe
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\bin\Debug\Physics Demo.pdb
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\Physics Demo.exe
+C:\Users\Ashley\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\Physics Demo.pdb
+G:\AshleyPC8.1\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\bin\Debug\Physics Demo.exe.config
+G:\AshleyPC8.1\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\Physics Demo.exe
+G:\AshleyPC8.1\Documents\Visual Studio 2013\Projects\Physics Demo\Physics Demo\obj\Debug\Physics Demo.pdb
